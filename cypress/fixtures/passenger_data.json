@@ -1,13 +1,13 @@
 {
   "TRAIN_NO": "16236",
-  "TRAIN_COACH": "SL",
+  "TRAIN_COACH": "3A",
   "TRAVEL_DATE": "31/03/2025",
   "SOURCE_STATION": "KGI",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "KQN",
-  "TATKAL": false,
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "6391395229@slc",
+  "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Ravi Shankar Kumar",
