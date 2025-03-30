@@ -1,25 +1,25 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "16236",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "31/03/2025",
+  "SOURCE_STATION": "KGI",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "KQN",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "6391395229@slc",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Ravi Shankar Kumar",
+      "AGE": 22,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Sunny Raj",
+      "AGE": 22,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
